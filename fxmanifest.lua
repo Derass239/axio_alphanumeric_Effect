@@ -13,4 +13,4 @@ author("derass#4974")
 description("Display Text or Number with effect")
 version("1.0.0")
 
-client_script("client/letter.lua")
+client_script("client.lua")
