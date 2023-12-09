@@ -58,6 +58,9 @@ end)
 
 In my tests, I was able to display up to 6 without problem, with more certain particles missing
 
+# **Discord**
+
+<a href="https://discord.gg/HPD35pasA5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="HPD35pasA5" height="120" width="180" /></a>
 
 # LICENSE & DISCLAIMER
 
